@@ -4,6 +4,8 @@
 **Tools:** MySQL 8, Power BI, Excel · **Skills shown:** joins, CTEs, window functions, data modelling, DAX, dashboard design
 
 ![Dashboard overview](images/dashboard-overview.png)
+![Promotions](images/dashboard-promotions.png)
+![Products and Cities](images/dashboard-products-cities.png)
 <!-- Add a screenshot of your Power BI Overview page at images/dashboard-overview.png -->
 
 ## The question
@@ -17,7 +19,7 @@ The dataset describes an online retailer selling across 16 Indian cities from 20
 ## Data
 
 3,510 orders, 50 customers, 30 products in 8 product lines, 16 cities, 5 promotions, January 2020 to December 2023 (one extra order on 1 January 2024, excluded from trend analysis). Currency is INR.
-Source: public e-commerce sample dataset, [ADD THE DATASET LINK HERE].
+Source: public e-commerce sample dataset, [public sample e-commerce sales dataset].
 
 I loaded it into four MySQL tables (`fact_sales` plus `dim_customers`, `dim_products`, `dim_promotions`), added a "No Promotion" row (`PR000`) so every order links to a promotion, trimmed padded city names, and checked that gross sales equal units × price and net equals gross minus discount on every row (0 errors).
 
