@@ -1,0 +1,31 @@
+product_id,product_name,product_line,list_price
+P001,Apple iPhone 14,Electronics,79999
+P002,Samsung Galaxy S21,Electronics,69999
+P003,"Sony Bravia 55"" TV",Electronics,89999
+P004,HP Pavilion Laptop,Electronics,64999
+P005,Apple MacBook Air,Electronics,92499
+P006,Nike Running Shoes,Footwear,7499
+P007,Adidas Sneakers,Footwear,6999
+P008,Puma Sports Shoes,Footwear,5499
+P009,Levi's Denim Jeans,Clothing,3499
+P010,Zara Casual Shirt,Clothing,2199
+P011,H&M T-Shirt,Clothing,1499
+P012,FabIndia Kurta,Clothing,2999
+P013,Raymond Suit,Clothing,15999
+P014,Bajaj Mixer Grinder,Home Appliances,4999
+P015,Philips Air Fryer,Home Appliances,8499
+P016,LG Washing Machine,Home Appliances,24999
+P017,IFB Microwave Oven,Home Appliances,10499
+P018,Prestige Pressure Cooker,Home Appliances,2299
+P019,Titan Wrist Watch,Accessories,5999
+P020,Fossil Smartwatch,Accessories,12999
+P021,Tupperware Lunch Box,Kitchenware,1299
+P022,Borosil Glass Set,Kitchenware,1999
+P023,Milton Thermos Flask,Kitchenware,1499
+P024,Puma Backpack,Bags,2799
+P025,American Tourister Suitcase,Bags,8999
+P026,Wildcraft Hiking Bag,Bags,5499
+P027,L'Oreal Shampoo,Personal Care,699
+P028,Dove Soap Pack,Personal Care,349
+P029,Colgate Toothpaste,Personal Care,99
+P030,Nivea Body Lotion,Personal Care,399

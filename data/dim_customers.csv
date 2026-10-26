@@ -1,0 +1,51 @@
+customer_id,customer_name,city,state,country,pincode
+1,Aarav Singh,Nagpur,Maharashtra,India,440001
+2,Aditi Patel,Bhopal,Madhya Pradesh,India,462001
+3,Aman Verma,Ahmedabad,Gujarat,India,380001
+4,Ananya Mehta,Bhopal,Madhya Pradesh,India,462001
+5,Aniket Sharma,Indore,Madhya Pradesh,India,452001
+6,Anjali Rao,Bhopal,Madhya Pradesh,India,462001
+7,Arjun Joshi,Kanpur,Uttar Pradesh,India,208001
+8,Aryan Gupta,Mumbai,Maharashtra,India,400001
+9,Avni Iyer,Kanpur,Uttar Pradesh,India,208001
+10,Dhruv Desai,Pune,Maharashtra,India,411001
+11,Diya Kapoor,Mumbai,Maharashtra,India,400001
+12,Gaurav Nair,Pune,Maharashtra,India,411001
+13,Isha Reddy,Bhopal,Madhya Pradesh,India,462001
+14,Ishaan Shah,Pune,Maharashtra,India,411001
+15,Jaya Kumar,Chennai,Tamil Nadu,India,600001
+16,Kabir Choudhary,Jaipur,Rajasthan,India,302001
+17,Kajal Bhatt,Delhi,Delhi,India,110001
+18,Karan Sethi,Visakhapatnam,Andhra Pradesh,India,530001
+19,Kavya Mishra,Indore,Madhya Pradesh,India,452001
+20,Krishnan Menon,Chennai,Tamil Nadu,India,600001
+21,Lavanya Jain,Indore,Madhya Pradesh,India,452001
+22,Manish Dubey,Bangalore,Karnataka,India,560001
+23,Meera Bansal,Hyderabad,Telangana,India,500001
+24,Mohit Aggarwal,Patna,Bihar,India,800001
+25,Naina Chauhan,Kanpur,Uttar Pradesh,India,208001
+26,Neha Sinha,Kolkata,West Bengal,India,700001
+27,Nikita Ahuja,Mumbai,Maharashtra,India,400001
+28,Nikhil Khanna,Indore,Madhya Pradesh,India,452001
+29,Palak Kapoor,Mumbai,Maharashtra,India,400001
+30,Pooja Chatterjee,Patna,Bihar,India,800001
+31,Prachi Yadav,Kanpur,Uttar Pradesh,India,208001
+32,Priya Arora,Kolkata,West Bengal,India,700001
+33,Rajat Saxena,Kanpur,Uttar Pradesh,India,208001
+34,Rajeev Trivedi,Hyderabad,Telangana,India,500001
+35,Rhea Bakshi,Kanpur,Uttar Pradesh,India,208001
+36,Rishi Kulkarni,Visakhapatnam,Andhra Pradesh,India,530001
+37,Rohit Sen,Ahmedabad,Gujarat,India,380001
+38,Saanvi Pillai,Lucknow,Uttar Pradesh,India,226001
+39,Sakshi Kaur,Bhopal,Madhya Pradesh,India,462001
+40,Samir Ghosh,Jaipur,Rajasthan,India,302001
+41,Sanjay Mathew,Nagpur,Maharashtra,India,440001
+42,Shikha Pandey,Lucknow,Uttar Pradesh,India,226001
+43,Siddharth Reddy,Pune,Maharashtra,India,411001
+44,Simran Kaur,Mumbai,Maharashtra,India,400001
+45,Sneha Sharma,Jaipur,Rajasthan,India,302001
+46,Tanvi Nair,Indore,Madhya Pradesh,India,452001
+47,Tanya Singh,Delhi,Delhi,India,110001
+48,Vikas Tiwari,Bhopal,Madhya Pradesh,India,462001
+49,Viraj Patel,Lucknow,Uttar Pradesh,India,226001
+50,Yash Malhotra,Lucknow,Uttar Pradesh,India,226001

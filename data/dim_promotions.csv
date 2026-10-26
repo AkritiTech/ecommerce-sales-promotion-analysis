@@ -1,0 +1,7 @@
+promotion_id,promotion_name,ad_type,coupon_code,reduction_type
+PR000,No Promotion,None,NONE,No discount
+PR001,Summer Sale,Email,SUMMER21,20% off
+PR002,Festive Diwali,Social Media,FESTIVE2022,10% off
+PR003,New Year Special,Website Banner,NEWYEAR22,Buy 1 Get 1 Free
+PR004,Weekend Flash Sale,Mobile Push,FLASH50,50% off
+PR005,Clearance Sale,In-App,CLEARANCE23,70% off
